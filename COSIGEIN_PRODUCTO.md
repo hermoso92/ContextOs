@@ -24,11 +24,17 @@ El **Reglamento (UE) 2023/1230 de Máquinas** deroga la Directiva 2006/42/CE y e
 Qué significa esto para el mercado de Cosigein:
 
 - Es **reglamento**, no directiva → aplicación directa e idéntica en toda la UE. Mercado homogéneo de golpe.
-- Introduce por primera vez **software, IA y ciberseguridad** como parte de la seguridad de la máquina.
+- Introduce por primera vez **software, IA y ciberseguridad** como requisitos esenciales de seguridad, al nivel de la seguridad mecánica.
 - Cambian los requisitos de los expedientes técnicos, las categorías de alto riesgo (Anexo I) y las evaluaciones.
-- **Cada fabricante, importador y consultora de la UE tiene que re-aprender y re-documentar.** Hay un pico de demanda con fecha de caducidad.
 
-Traducción: hay una **ola regulatoria forzosa** llegando, y Cosigein está justo en la playa. El que tenga una herramienta para hacer ese trabajo más rápido y sin errores, gana. Esa herramienta no existe todavía como producto serio. Esa es la grieta.
+**Matiz importante (no exagerar):** NO obliga a re-certificar todo lo que ya existe. Las máquinas comercializadas antes del 20/01/2027 bajo la directiva vieja se pueden seguir vendiendo. El reglamento aplica a lo que se ponga en el mercado **a partir del 20/01/2027**, y a las **modificaciones sustanciales** de máquinas existentes (que sí disparan nueva evaluación).
+
+El motor de demanda real, bien dicho:
+1. **Todo producto nuevo desde 2027** cumple reglas nuevas y más complejas.
+2. Las reglas son **nuevas para todos** (software/IA/ciber) → hasta los ingenieros veteranos rehacen plantillas y expedientes-tipo.
+3. Las **modificaciones sustanciales** obligan a re-evaluar.
+
+Traducción: hay una **ola regulatoria con fecha** llegando, y Cosigein está justo en la playa. El que tenga una herramienta para hacer ese trabajo más rápido y sin errores, gana. Esa herramienta no existe todavía como producto serio. Esa es la grieta.
 
 ---
 
