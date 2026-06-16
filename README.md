@@ -51,3 +51,13 @@
 
 *"No quiero que me confirmes: quiero que me corrijas hasta que esto sea real."*
 *La corrección está hecha. Ahora falta lo único que no puede hacer un documento: que lo ejecutes.*
+
+---
+
+## Exploraciones aparte (no son el foco de los 90 días)
+
+> Recordatorio: estas líneas están **congeladas como negocio** durante los 90 días del vertical de clínicas. Viven aquí como motor/marketing, no como caja.
+
+| Archivo | Qué es |
+|---------|--------|
+| `DEFINICION_PERSONATECNICA.md` | Definición profesional completa del producto "Manual de Usuario" (Identity Intelligence): naming, categoría, mercado, MVP, arquitectura técnica e IA, ética/legal, negocio y hoja de ruta. Exploración a futuro, no acción de esta semana. |
