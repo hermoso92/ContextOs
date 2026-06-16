@@ -61,3 +61,5 @@
 | Archivo | Qué es |
 |---------|--------|
 | `DEFINICION_PERSONATECNICA.md` | Definición profesional completa del producto "Manual de Usuario" (Identity Intelligence): naming, categoría, mercado, MVP, arquitectura técnica e IA, ética/legal, negocio y hoja de ruta. Exploración a futuro, no acción de esta semana. |
+| `PLANTILLAS/04_plantilla_manual_usuario.md` | Molde rellenable del informe (las 17 secciones) para producir el caso 0 a mano. |
+| `PLANTILLAS/05_prompts_maestros_pipeline.md` | Los 7 prompts del pipeline (señales → patrones → 50 miradas → matriz → manual → guardrail). IP del producto. |
